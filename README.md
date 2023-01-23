@@ -1,7 +1,7 @@
 ![logo](https://github.com/sanket-pawase/sanketpawase/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm sanket pawase</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/89476599/213961365-9b2a5ef5-aa4b-4a61-891d-accb3ac2236b.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-pawase&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-pawase" /> </p>
 
