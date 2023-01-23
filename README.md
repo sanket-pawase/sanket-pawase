@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm sanket pawase</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<imag align="right"alt="coding"width="400"sec="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw1urBdtg9F8fA9tlSGU1ZwF&ust=1674523955713000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjs1YjG3PwCFQAAAAAdAAAAABAv"
+<imag align="right" alt="coding" width="400" sec="![image](https://user-images.githubusercontent.com/89476599/213954184-606a959c-65b8-412b-a011-1bd2aeb5ff73.png)
+"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-pawase&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-pawase" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanket_pawase" target="blank"><img src="https://img.shields.io/twitter/follow/sanket_pawase?logo=twitter&style=for-the-badge" alt="sanket_pawase" /></a> </p>
