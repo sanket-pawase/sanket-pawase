@@ -1,3 +1,4 @@
+![logo](https://github.com/sanket-pawase/sanketpawase/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm sanket pawase</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <imag align="right" alt="coding" width="400" sec="![image](https://user-images.githubusercontent.com/89476599/213954184-606a959c-65b8-412b-a011-1bd2aeb5ff73.png)
